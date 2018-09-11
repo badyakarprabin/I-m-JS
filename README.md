@@ -61,13 +61,13 @@
 ## Basics
 
 1. Declarations
-
+```
 -var
 
 -let
 
 -const
-
+```
 2. Declaring variables.
 
 ```js
