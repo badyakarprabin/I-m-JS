@@ -455,11 +455,11 @@ Array.push(value);
 
 #### Example
 
-````js
+```js
 var myNumbers = [1, 2, 3, 4];
 
 myNumbers.push(5)
-
+```
 ### pop()
 
 The pop() method removes the last element of an array, and returns that element
@@ -472,11 +472,11 @@ Array.pop();
 
 #### Example
 
-````js
+```js
 var myNumbers = [1, 2, 3, 4];
 
 myNumbers.pop()
-
+```
 ### sort()
 
 The sort() method sorts the elements of an array
