@@ -602,7 +602,7 @@ console.log(todayCollectionObje) //obj.amount = 200
 #### Example
 
 ```js
-<div id='firstName'>I'm JS</div>
+<div id='firstName'>Im JS</div>
 
 <input type='radio' name='gender' value='male' checked>Male</radio>
 
