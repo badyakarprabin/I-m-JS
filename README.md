@@ -601,7 +601,7 @@ console.log(todayCollectionObje) //obj.amount = 200
 
 #### Example
 
-```HTML
+```js
 <div id='firstName'>I'm JS</div>
 
 <input type='radio' name='gender' value='male' checked>Male</radio>
@@ -630,7 +630,7 @@ console.log((myElement.style.color = 'red'));
 
 #### Example
 
-```HTML
+```js
 <div>
   <input type="text" id='firstName' name="firstName" placeholder="Enter you firstname*" required />
 
@@ -662,7 +662,7 @@ It is also good idea to have your HTML code looks like HTML and js code looks li
 
 Here in this element, we used javascript function inside the element. This is mixture of HTML and JS.
 
-```HTML
+```js
 <button id='btn' onclick='function()'>Click Me</button>
 ```
 
@@ -670,7 +670,7 @@ Instead of this, we can write
 
 #### my.html
 
-```HTML
+```js
 <button id='btn'>Click Me</button>
 ```
 
@@ -710,7 +710,9 @@ The setTimeOut() method calls a function or evaluates an expression after a spec
 
 #### Syntax:
 
+```js
 setTimeout(function, milliseconds, param1, param2, ...)
+```
 
 #### Example:
 
@@ -730,7 +732,9 @@ The setInterval() method calls a function or evaluates an expression at specifie
 
 #### Syntax:
 
+```js
 setInterval(function, milliseconds, param1, param2, ...)
+```
 
 #### Example:
 ```js
@@ -747,9 +751,12 @@ The clearInterval() method clears a timer set with the setInterval() method.
 
 #### Syntax:
 
+```js 
 clearInterval(setIntervalValue)
+```
 
 #### Example:
+
 ```js
 // Get live time.
 var currentTime = setInterval(function() {
