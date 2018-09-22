@@ -584,7 +584,7 @@ console.log(todayCollectionObje) //obj.amount = 200
 
 ## HTML with JS
 
-<img src='https://www.google.com.np/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiK_q-48M3dAhVMto8KHe5bCM8QjRx6BAgBEAU&url=https%3A%2F%2Fwww3.ntu.edu.sg%2Fhome%2Fehchua%2Fprogramming%2Fwebprogramming%2FJavaScript_Introduction.html&psig=AOvVaw2ApGSZ8yPJgHMQSr-l5cSP&ust=1537680499253776'/>
+<img src='https://www.w3schools.com/js/pic_htmltree.gif'/>
 
 ### DOM stands for Document Object Model.
 
